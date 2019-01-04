@@ -1,0 +1,3 @@
+[submodule "libraries/WaveHC"]
+	path = libraries/WaveHC
+	url = https://github.com/adafruit/WaveHC
